@@ -1,0 +1,3 @@
+C:\Users\leonk\OneDrive\Desktop\EAC\bin\.logs\driver.vcxproj.MdMergeInputs.cache
+C:\Users\leonk\OneDrive\Desktop\EAC\bin\.logs\driver.vcxproj.cppwinrt_plat.cache
+C:\Users\leonk\OneDrive\Desktop\EAC\bin\.logs\driver.vcxproj.cppwinrt_comp.cache
